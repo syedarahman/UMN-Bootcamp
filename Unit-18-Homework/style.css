@@ -1,0 +1,90 @@
+.body {
+    font-family: "Catarman", sans-serif;
+}
+
+.nav {
+    display: flex;
+    float: right;
+    padding: 20px;
+    height: 50px;
+    justify-content: center;
+    width: 30%;
+}
+
+.nav a {
+    padding: 20px;
+    color: black;
+    font-family: "Catarman", sans-serif;
+}
+
+.hero-section {
+    width: 100%;
+    padding: 100px 100px 20px 100px;
+    display: flex;
+    margin: auto;
+}
+
+.intro-paragraph {
+    float: left;
+    padding: 20px;
+    width: 450px;
+    font-family: "Catarman", sans-serif;
+}
+
+#my-name {
+    font-size: 50px;
+    font-family: 'Bad Script', cursive;
+}
+
+.picture-of-me {
+    float: right;
+    padding: 50px;
+    width: 50%;
+}
+
+.case-study-section {
+    width: 100%;
+    padding: 100px 100px 20px 100px;
+    display: flex;
+    margin: auto;
+}
+
+.my-projects {
+    font-size: 40px;
+    font-family: 'Bad Script', cursive;
+    float: left;
+    padding: 20px;
+    width: 100%px;
+}
+
+
+.case-study-one {
+    padding: 50px;
+    font-size: 20px;
+    width: 100%;
+    font-family: "Catarman", sans-serif;
+}
+
+
+.view-case-study-button {
+    background-color: white;
+  border: 1px solid black;
+  color: black;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    font-family: "Catarman", sans-serif;
+}
+
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #A2ADA3;
+   color: white;
+   text-align: center;
+   height: 150px;
+}
